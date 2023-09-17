@@ -48,7 +48,7 @@ Even though we have an automatic restore point feature some users have issues wi
 
 1. Download the latest Hone-Optimizer Version
    ```sh
-   https://github.com/LightMode00/Hone-Optimizer/releases/latest/download/Hone-Optimizer.exe
+   https://github.com/LightMode00/Hone-Optimizer/releases/download/v2.8/Hone-Optimizer.exe
    ```
 2. Right click Hone-Optimizer.exe and run it as admin
 
